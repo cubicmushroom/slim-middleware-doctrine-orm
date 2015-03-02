@@ -1,6 +1,6 @@
 {
   "name": "slim-middleware-doctrine-orm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Slim Framework Middleware to integrate Doctrine ORM",
   "main": "gulpfile.js",
   "scripts": {

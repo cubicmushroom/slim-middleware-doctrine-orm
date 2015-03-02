@@ -1,6 +1,6 @@
 {
   "name": "cubicmushroom/slim-middleware-doctrine-orm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Slim Framework Middleware to integrate Doctrine ORM",
   "minimum-stability": "stable",
   "license": "proprietary",
@@ -18,7 +18,6 @@
   "require": {
     "cubicmushroom/exceptions": "~1.1.0",
     "cubicmushroom/options-trait": "~1.0.2",
-
     "slim/slim": "~2.5",
     "doctrine/orm": "~2.0"
   }
