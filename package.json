@@ -1,0 +1,33 @@
+{
+  "name": "slim-middleware-doctrine-orm",
+  "version": "0.0.0",
+  "description": "Slim Framework Middleware to integrate Doctrine ORM",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://toby-griffiths@github.com/cubicmushroom/slim-middleware-doctrine-orm.git"
+  },
+  "keywords": [
+    "php",
+    "slim-framework",
+    "middleware",
+    "doctrine"
+  ],
+  "author": "Toby Griffiths <toby@cubicmushroom.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cubicmushroom/slim-middleware-doctrine-orm/issues"
+  },
+  "homepage": "https://github.com/cubicmushroom/slim-middleware-doctrine-orm",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-bump": "^0.2.2",
+    "gulp-confirm": "^0.1.6",
+    "gulp-filter": "^2.0.2",
+    "gulp-git": "^1.0.0",
+    "gulp-tag-version": "^1.2.1"
+  }
+}
