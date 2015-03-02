@@ -1,0 +1,24 @@
+{
+  "name": "cubicmushroom/slim-middleware-doctrine-orm",
+  "description": "Slim Framework Middleware to integrate Doctrine ORM",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Toby Griffiths",
+      "email": "toby@cubicmushroom.co.uk"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "CubicMushroom\\Slim\\": "src/"
+    }
+  },
+  "require": {
+    "cubicmushroom/exceptions": "~1.1.0",
+    "cubicmushroom/options-trait": "~1.0.2",
+
+    "slim/slim": "~2.5",
+    "doctrine/orm": "~2.0"
+  }
+}
